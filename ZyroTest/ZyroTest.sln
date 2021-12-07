@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyroTest", "ZyroTest\ZyroTest.csproj", "{D36AE864-0848-4380-85EE-17F3B756515B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D36AE864-0848-4380-85EE-17F3B756515B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36AE864-0848-4380-85EE-17F3B756515B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36AE864-0848-4380-85EE-17F3B756515B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36AE864-0848-4380-85EE-17F3B756515B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E7BD5F-383E-420E-8C68-14179D7787F7}
+	EndGlobalSection
+EndGlobal
